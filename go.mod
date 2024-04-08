@@ -1,3 +1,3 @@
-module github.com/dterana/fouras
+module github.com/dterana/pere-fouras
 
 go 1.22.1
